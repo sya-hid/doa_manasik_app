@@ -1,0 +1,16 @@
+{
+  "setting": "Settings",
+  "bookmark": "Bookmarks",
+  "home": "Home",
+  "qibla": "Qibla",
+  "qibla_": "Align both arrow head\nDo not put device close to metal object.\nCalibrate the compass every time you use it.",
+  "dark_mode": "Dark Mode",
+  "font_size": "Font Size",
+  "language": "Language",
+  "last_read": "Last Read",
+  "remove_bookmark": "Has been removed from Bookmarks",
+  "add_bookmark": "Has been added to Bookmarks",
+  "search_for_doa": "Search for doa...",
+  "enter_keywords_to_search_for_doa": "Enter keywords to search for doa",
+  "empty": "Empty"
+}

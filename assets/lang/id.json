@@ -1,0 +1,16 @@
+{
+  "setting": "Pengaturan",
+  "bookmark": "Penanda",
+  "home": "Beranda",
+  "qibla": "Kiblat",
+  "dark_mode": "Mode Gelap",
+  "font_size": "Ukuran Huruf",
+  "language": "Bahasa",
+  "remove_bookmark": "Telah dihapus dari Bookmark",
+  "add_bookmark": "Telah ditambahkan ke Bookmark",
+  "last_read": "Terakhir Dibaca",
+  "search_for_doa": "Cari doa...",
+  "qibla_": "Sejajarkan kedua kepala panah\nJangan letakkan perangkat dekat dengan benda logam.\nKalibrasi kompas setiap kali Anda menggunakannya.",
+  "enter_keywords_to_search_for_doa": "Masukkan kata kunci untuk mencari doa",
+  "empty": "Kosong"
+}
