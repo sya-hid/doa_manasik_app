@@ -1,16 +1,25 @@
 # manasik_app
 
-A new Flutter project.
+## Support
 
-## Getting Started
+<p>
+<a href="https://sociabuzz.com/syarifhidayatullah2020/tribe" target='_blank'>
+<img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" width="100"></a>
 
-This project is a starting point for a Flutter application.
+<a href="https://www.buymeacoffee.com/syarifhidayat"  target='_blank'>
+<img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" width="100"></a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Youtube
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<a href="https://youtu.be/on7k8I_1vTI" target='_blank'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/200px-YouTube_Logo_2017.svg.png" width="100"></a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+<p align="middle">
+<img src="assets/previews/Screenshot_2025-01-19-14-36-10-680_com.example.manasik_app.png" width="200">
+<img src="assets/previews/Screenshot_2025-01-19-14-34-27-487_com.example.manasik_app.png" width="200">
+<img src="assets/previews/Screenshot_2025-01-19-14-36-21-139_com.example.manasik_app.png" width="200">
+<img src="assets/previews/Screenshot_2025-01-19-14-34-35-882_com.example.manasik_app.png" width="200">
+</p>
