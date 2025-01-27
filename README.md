@@ -23,3 +23,4 @@
 <img src="assets/previews/Screenshot_2025-01-19-14-36-21-139_com.example.manasik_app.png" width="200">
 <img src="assets/previews/Screenshot_2025-01-19-14-34-35-882_com.example.manasik_app.png" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.doa_manasik_app"/>
